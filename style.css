@@ -1,0 +1,48 @@
+.card{
+    border-color: black;
+    border:solid;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    margin: 30px;
+}
+
+#questao3{
+    display: flex;
+}
+
+.visible{
+    border-color: black;
+    border:solid;
+    width: 150px;
+    height: 150px;
+    margin: 30px;  
+    overflow: visible;
+}
+
+.hidden{
+    border-color: black;
+    border:solid;
+    width: 150px;
+    height: 150px;
+    margin: 30px;  
+    overflow: hidden;
+}
+
+.scroll{
+    border-color: black;
+    border:solid;
+    width: 150px;
+    height: 150px;
+    margin: 30px;  
+    overflow: scroll;
+}
+
+.auto{
+    border-color: black;
+    border:solid;
+    width: 150px;
+    height: 150px;
+    margin: 30px;  
+    overflow: auto;
+}
